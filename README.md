@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-<details> 
+
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
 <h3>👨‍💻 Programming and Markup Languages</h3>
   <p>
@@ -55,4 +55,4 @@
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
-</details>
+
