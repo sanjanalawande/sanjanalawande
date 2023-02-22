@@ -3,7 +3,10 @@
   <a href="">
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Web%20Developer;I%20Code,%20Therefore%20I%20Am;Always%20learning%20by%20doing&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
-
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/sanjana-lawande/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
 <h3>👨‍💻 Programming and Markup Languages</h3>
