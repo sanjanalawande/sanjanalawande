@@ -1,8 +1,6 @@
 ### Hi there 👋
-
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <a href="#">
     <img src="https://readme-typing-svg.demolab.com/?lines=I%20Am%20A%20Full-Stack%20Web%20Developer;I%20code,%20therefore%20I%20 %20am;Always%20Learning%20By%20Doing&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
