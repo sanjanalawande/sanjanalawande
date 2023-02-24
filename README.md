@@ -57,4 +57,4 @@
 
 <details>
  <summary><h3>👨‍💻 Sanjana's Coding Journey</h3></summary>
-   I 
+   At the age of 16, I embarked on an exciting journey into the world of coding, venturing into languages such as C++ and SQL. Despite eventually pursuing a degree in mechanical engineering, my fascination with programming continued to thrive, and I acquired further proficiency in languages like Python and Java. Fueled by my unwavering passion for coding, I am now pursuing a Master's degree in Computer Science to sharpen my skills and gain hands-on experience in the field. As a self-taught developer with an unrelenting drive to contribute to meaningful projects, I am eagerly anticipating the chance to apply my expertise in a professional setting and make a tangible impact in the real world.
