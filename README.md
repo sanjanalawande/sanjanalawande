@@ -7,7 +7,7 @@
 <summary>
   <h2>🛠️ My Favorite Tools</h2>
 </summary>
-<h3>👨‍💻 Programming and Markup Languages</h3>
+<h3>👩🏻‍💻 Programming and Markup Languages</h3>
   <p>
       <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
       <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
@@ -56,5 +56,5 @@
   </p>
 
 <details>
- <summary><h3>👨‍💻 Sanjana's Coding Journey</h3></summary>
+ <summary><h3>👩🏻‍💻 Sanjana's Coding Journey</h3></summary>
    At the age of 16, I embarked on an exciting journey into the world of coding, venturing into languages such as C++ and SQL. Despite eventually pursuing a degree in mechanical engineering, my fascination with programming continued to thrive, and I acquired further proficiency in languages like Python and Java. Fueled by my unwavering passion for coding, I am now pursuing a Master's degree in Computer Science to sharpen my skills and gain hands-on experience in the field. As a self-taught developer with an unrelenting drive to contribute to meaningful projects, I am eagerly anticipating the chance to apply my expertise in a professional setting and make a tangible impact in the real world.
