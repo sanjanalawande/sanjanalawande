@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Web%20Developer;I%20Code,%20Therefore%20I%20Am;Always%20learning%20by%20doing&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=I%20Am%20A%20Full-Stack%20Web%20Developer;I%20Code,%20Therefore%20I%20Am;Always%20learning%20by%20doing&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <summary>
