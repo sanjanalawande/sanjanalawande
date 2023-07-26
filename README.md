@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.demolab.com/?lines=I%20Am%20A%20Full-Stack%20Web%20Developer;Unlocking%20Innovation,%20One%20Line%20Of%20Code%20At%20A%20Time;Always%20learning%20by%20doing&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=I%20Am%20A%20Full-Stack%20Web%20Developer;Unlocking%10Innovation,%10One%10Line%10Of%10Code%10At%10A%10Time;Always%20learning%20by%20doing&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 <summary>
   <h2>🛠️ My Favorite Tools</h2>
